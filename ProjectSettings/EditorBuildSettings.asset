@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/PLAY_SCENE.unity
+    guid: e323410d99e3add41b7cf9957621ca10
+  - enabled: 1
+    path: Assets/Scenes/QUIZ1_SCENE.unity
+    guid: 91943116219246145b9f5c8faf1e0ba4
+  - enabled: 1
+    path: Assets/Scenes/QUIZ2_SCENE.unity
+    guid: 9bc4519e494de654e8abb90aeacb14f3
+  - enabled: 1
+    path: Assets/Scenes/QUIZ3_SCENE.unity
+    guid: f8c092abf0f70e748b7574479de13b59
+  - enabled: 1
+    path: Assets/Scenes/QUIZ4_SCENE.unity
+    guid: ac1a8730761ab9d4a825bf49ff648dcd
+  - enabled: 1
+    path: Assets/Scenes/QUIZ5_SCENE.unity
+    guid: 2790a743a9a1ea548919110a1006257e
+  - enabled: 1
+    path: Assets/Scenes/GAMEOVER1_SCENE.unity
+    guid: 6cebcf0a416d9ed4a9cc5a73b94ca86f
+  - enabled: 1
+    path: Assets/Scenes/GAMEOVER2_SCENE.unity
+    guid: 68dc44c06ad6d8a43aa08864d8f8a0ca
+  - enabled: 1
+    path: Assets/Scenes/GAMEOVER3_SCENE.unity
+    guid: 60df152ca4b836d45a9659e985998999
+  - enabled: 1
+    path: Assets/Scenes/GAMEOVER4_SCENE.unity
+    guid: 82774aa723ba4af4fb5f3111c4b14543
+  - enabled: 1
+    path: Assets/Scenes/GAMEOVER5_SCENE.unity
+    guid: 0dda1e7e67a1cf44ba09d07b894fe374
+  - enabled: 1
+    path: Assets/Scenes/WON_SCENE.unity
+    guid: b2d893dea48f91445ba315c853719555
+  - enabled: 0
+    path: Assets/Scenes/QUITCONFIRMATION_SCENE.unity
+    guid: 75fb5d17580e0f747801dc3ba8becdcf
+  m_configObjects: {}
